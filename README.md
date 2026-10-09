@@ -4,8 +4,8 @@
 Student Record System is a Java console-based application built for managing student academic records efficiently. The system implements dynamic memory management through a Singly Linked List and tracks deleted records using a Stack to provide an instant undo capability. Users can perform full CRUD operations, search for students, and sort records by GPA.
 
 ## Data Structures Used
-* **Singly Linked List:** Used to store and dynamically manage student records (ID, Name, GPA).
-* **Stack:** Used to preserve deleted student records, enabling a Last-In, First-Out (LIFO) "Undo Last Delete" functionality.
+- **Singly Linked List:** Used to store and dynamically manage student records (ID, Name, GPA).
+- **Stack:** Used to preserve deleted student records, enabling a Last-In, First-Out (LIFO) "Undo Last Delete" functionality.
 
 ## Features
 1. **Add Student Record:** Insert new student details into the system.
@@ -27,4 +27,4 @@ Student Record System is a Java console-based application built for managing stu
 | **Undo Last Delete** | Stack Pop | $O(1)$ |
 
 ## Repository Link
-https://eman12fatima12-cpu.github.io/CS216L_Project1_Group06/
+https://github.com/eman12fatima12-cpu/CS216L_Project1_Group06
