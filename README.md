@@ -27,4 +27,4 @@ Student Record System is a Java console-based application built for managing stu
 | **Undo Last Delete** | Stack Pop | $O(1)$ |
 
 ## Repository Link
-https://github.com/eman12fatima12-cpu/CS216L_Project1_Group6
+https://eman12fatima12-cpu.github.io/CS216L_Project1_Group06/
